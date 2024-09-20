@@ -1,4 +1,4 @@
 # PROJECT WEBSITE
 Um modelo de site de portfólio, pode modificar e fazer seu próprio site.
 
-![Web capture_7-9-2024_222947_127 0 0 1](https://github.com/user-attachments/assets/cf34ab8b-ca84-4355-b432-23c3c32c1740)
+![Web capture_20-9-2024_25948_project-website-nine vercel app](https://github.com/user-attachments/assets/76a6a89e-34cb-43cc-a9b0-5585b2cd453e)
